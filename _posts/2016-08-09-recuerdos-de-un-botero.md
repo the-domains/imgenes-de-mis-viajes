@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-09T05:58:42.835Z'
+datePublished: '2016-08-09T06:01:46.331Z'
 sourcePath: _posts/2016-08-09-recuerdos-de-un-botero.md
-author: []
+author:
+  - name: Armando Hamel
 via: {}
-dateModified: '2016-08-09T05:58:40.557Z'
+dateModified: '2016-08-09T06:01:45.652Z'
 title: ''
 publisher: {}
 description: Recuerdos de un botero
