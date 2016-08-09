@@ -1,4 +1,3 @@
-layout_spectrum: 0.0725388505961746
 typography_spectrum: 0.8335591242648661
 color:
   brandStrength: 0.054990642704069614
@@ -11,5 +10,9 @@ color:
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
+layout_spectrum: 0.0725388505961746
 name: Imágenes de mis viajes
 title: Imágenes de mi viaje
+description: >-
+  Mi viaje por esta encarnación tiene cosas que vale la pena registrar, y quiero
+  compartir la belleza que hay detrás de una imagen
