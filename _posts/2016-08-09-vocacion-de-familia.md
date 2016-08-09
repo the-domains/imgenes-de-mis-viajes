@@ -1,13 +1,13 @@
 ---
-description: Vocación de familia
-dateModified: '2016-08-09T05:04:22.011Z'
-datePublished: '2016-08-09T05:15:47.469Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-09T05:57:41.796Z'
 sourcePath: _posts/2016-08-09-vocacion-de-familia.md
+author: []
+via: {}
+dateModified: '2016-08-09T05:57:41.292Z'
+title: ''
+publisher: {}
+description: Vocación de familia
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
