@@ -1,14 +1,14 @@
 ---
-description: Expresión de libertad
-dateModified: '2016-08-09T05:47:24.840Z'
-datePublished: '2016-08-09T05:52:18.279Z'
-title: ''
+datePublished: '2016-08-09T05:57:27.748Z'
+sourcePath: _posts/2016-08-09-expresion-de-libertad.md
 author: []
+via: {}
+dateModified: '2016-08-09T05:57:27.035Z'
+title: ''
 publisher:
   name: Armando Hamel
-via: {}
+description: Expresión de libertad
 starred: false
-sourcePath: _posts/2016-08-09-expresion-de-libertad.md
 inFeed: true
 hasPage: false
 inNav: false
