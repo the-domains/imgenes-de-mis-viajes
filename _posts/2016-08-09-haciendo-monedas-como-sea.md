@@ -1,14 +1,15 @@
 ---
-description: Haciendo monedas como sea
-dateModified: '2016-08-09T05:00:04.899Z'
-datePublished: '2016-08-09T05:16:05.734Z'
+datePublished: '2016-08-09T06:01:01.199Z'
+sourcePath: _posts/2016-08-09-haciendo-monedas-como-sea.md
+author:
+  - name: Armando Hamel
+via: {}
+dateModified: '2016-08-09T06:01:00.685Z'
 title: ''
-author: []
 publisher:
   name: Armando Hamel
-via: {}
+description: Haciendo monedas como sea
 starred: false
-sourcePath: _posts/2016-08-09-haciendo-monedas-como-sea.md
 inFeed: true
 hasPage: false
 inNav: false
