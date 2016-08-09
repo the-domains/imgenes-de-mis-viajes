@@ -1,14 +1,14 @@
 ---
-description: Institución fiscal a su servicio
-dateModified: '2016-08-09T05:50:02.575Z'
-datePublished: '2016-08-09T05:51:59.604Z'
-title: ''
+datePublished: '2016-08-09T05:57:00.050Z'
+sourcePath: _posts/2016-08-09-institucion-fiscal-a-su-servicio.md
 author: []
+via: {}
+dateModified: '2016-08-09T05:56:59.371Z'
+title: ''
 publisher:
   name: Armando Hamel
-via: {}
+description: Institución fiscal a su servicio
 starred: false
-sourcePath: _posts/2016-08-09-institucion-fiscal-a-su-servicio.md
 inFeed: true
 hasPage: false
 inNav: false
