@@ -1,14 +1,14 @@
 ---
-description: 'La gamba pa´una cañita, jefe....'
-dateModified: '2016-08-09T05:06:27.755Z'
-datePublished: '2016-08-09T05:15:39.297Z'
-title: ''
+datePublished: '2016-08-09T06:00:17.842Z'
+sourcePath: _posts/2016-08-09-la-gamba-pauna-canita-jefe.md
 author: []
+via: {}
+dateModified: '2016-08-09T06:00:17.295Z'
+title: ''
 publisher:
   name: Armando Hamel
-via: {}
+description: 'La gamba pa´una cañita, jefe....'
 starred: false
-sourcePath: _posts/2016-08-09-la-gamba-pauna-canita-jefe.md
 inFeed: true
 hasPage: false
 inNav: false
