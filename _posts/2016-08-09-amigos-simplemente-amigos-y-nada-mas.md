@@ -1,14 +1,14 @@
 ---
-description: 'Amigos, simplemente amigos, y nada mas.'
-dateModified: '2016-08-09T05:03:30.685Z'
-datePublished: '2016-08-09T05:15:45.313Z'
-title: ''
+datePublished: '2016-08-09T05:57:55.895Z'
+sourcePath: _posts/2016-08-09-amigos-simplemente-amigos-y-nada-mas.md
 author: []
+via: {}
+dateModified: '2016-08-09T05:57:55.052Z'
+title: ''
 publisher:
   name: Armando Hamel
-via: {}
+description: 'Amigos, simplemente amigos, y nada mas.'
 starred: false
-sourcePath: _posts/2016-08-09-amigos-simplemente-amigos-y-nada-mas.md
 inFeed: true
 hasPage: false
 inNav: false
