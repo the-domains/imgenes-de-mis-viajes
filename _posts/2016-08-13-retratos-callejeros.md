@@ -1,17 +1,16 @@
 ---
 description: 'No importa donde, siempre hay luz sobre quienes aman.'
-dateModified: '2016-08-13T14:13:26.287Z'
-datePublished: '2016-08-13T18:58:31.398Z'
+dateModified: '2016-08-13T19:05:37.846Z'
+datePublished: '2016-08-13T19:05:38.565Z'
 title: Retratos callejeros
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-13-retratos-callejeros.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: retratos-callejeros/index.html
+_type: Blurb
 
 ---
 ![En algunas miradas está el reflejo de toda una vida. En otras, está la nube de lo que nunca pudo ser. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ff6612e-acfc-4daa-95c6-7a938ce6352f.jpg)
