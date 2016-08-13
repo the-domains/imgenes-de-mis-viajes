@@ -11,6 +11,9 @@ color:
     - '#26393D'
     - '#FFFAE4'
 layout_spectrum: 0.0725388505961746
+author:
+  name: Armando Hamel
+  email: armando@hamel.cl
 name: Imágenes de mis viajes
 navigation:
   - name: Biografía
