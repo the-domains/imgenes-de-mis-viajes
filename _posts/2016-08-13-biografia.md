@@ -1,17 +1,16 @@
 ---
 description: Resumen de cómo se inicia esta historia fotográfica.
-dateModified: '2016-08-13T22:57:09.996Z'
-datePublished: '2016-08-13T22:57:45.542Z'
+dateModified: '2016-08-13T22:58:34.448Z'
+datePublished: '2016-08-13T22:58:34.923Z'
 title: Biografía
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-13-biografia.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: biografia/index.html
+_type: Blurb
 
 ---
 # Biografía
