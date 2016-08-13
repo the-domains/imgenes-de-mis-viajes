@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-13T23:01:00.025Z'
+datePublished: '2016-08-13T23:41:06.682Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T23:00:44.489Z'
+dateModified: '2016-08-13T23:41:05.916Z'
 title: Biografía
 publisher: {}
 description: Resumen de cómo se inicia esta historia fotográfica.
