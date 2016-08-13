@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-13T23:41:06.682Z'
+datePublished: '2016-08-13T23:58:29.710Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T23:41:05.916Z'
+dateModified: '2016-08-13T23:58:29.120Z'
 title: Biografía
 publisher: {}
-description: Resumen de cómo se inicia esta historia fotográfica.
+description: Un resumen de cómo se inicia esta historia fotográfica.
 starred: false
 url: biografia/index.html
 _type: Blurb
@@ -15,7 +15,7 @@ _type: Blurb
 ---
 # Biografía
 
-Resumen de cómo se inicia esta historia fotográfica.
+Un resumen de cómo se inicia esta historia fotográfica.
 ![Salar de Surire - 2014](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf258c86-025c-4857-890d-7e44886bfc1e.jpg)
 
 Descubrí la fotografía como medio de expresión recién el año 2008, a partir de la fotografía submarina.
@@ -24,9 +24,11 @@ Diferentes casualidades, y el consejo de buenos amigos, me llevaron a reconocer 
 
 Bajo esa premisa, me inscribí en el curso de fotografía que dicta la Universidad de Seattle y Creative Live. Mi principal mentor en ese momento fue un fotógrafo naturalista de nombre [John Greengo][1], quién me transmitió básicamente la necesidad de estar en paz para lograr retratar la armonía de la naturaleza.
 
-El manejo de la luz, y la fotografía mas urbana la aprendí de [Joe McNally][2]. Él trabaja fundamentalmente en Nueva York para medios publicitarios y con modelos profesionales
+El manejo de la luz, y la fotografía mas urbana la aprendí de [Joe McNally][2]. Él trabaja fundamentalmente en Nueva York para medios publicitarios y con modelos profesionales.
 
-Desde el año 2010 en adelante, he tenido varios proyectos que me han emocionado de alguna manera, y que me han llevado a recorrer nuestro país en la búsqueda de las imágenes que le den vida. Aquí dejo registrado parte de ese camino
+La influencia de cada uno se resume en: mirar, mirar y mirar. Hacer tantas fotos como se pueda para ir perfeccionando el arte, y nunca dejar de aprender. Desde el año 2010 en adelante, he tenido varios proyectos que me han emocionado de alguna manera, y que me han llevado a recorrer nuestro país en la búsqueda de las imágenes que le den vida. 
+
+Aquí dejo registrada parte de esa historia
 
 [0]: http://www.eduardosorensen.cl/ "Página web de Eduardo Sorensen"
 [1]: http://www.johngreengo.com/ "Página web de John Greengo"
