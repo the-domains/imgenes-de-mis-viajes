@@ -11,6 +11,8 @@ color:
     - '#26393D'
     - '#FFFAE4'
 layout_spectrum: 0.0725388505961746
+analytics:
+  google: UA-82056407-1
 author:
   name: Armando Hamel
   email: armando@hamel.cl
