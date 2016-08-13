@@ -16,6 +16,9 @@ navigation:
   - name: Retratos callejeros
     id: 40c2cca2-d20b-4982-a111-a4381cbc2702
     type: content
+  - name: Biografía
+    id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
+    type: content
 title: Imágenes de mi viaje
 description: >-
   Mi viaje por esta encarnación tiene cosas que vale la pena registrar, y quiero
