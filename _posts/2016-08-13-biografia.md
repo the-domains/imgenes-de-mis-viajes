@@ -1,13 +1,13 @@
 ---
-description: Resumen de cómo se inicia esta historia fotográfica.
-dateModified: '2016-08-13T22:58:34.448Z'
-datePublished: '2016-08-13T22:58:34.923Z'
-title: Biografía
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-13T23:01:00.025Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-13T23:00:44.489Z'
+title: Biografía
+publisher: {}
+description: Resumen de cómo se inicia esta historia fotográfica.
 starred: false
 url: biografia/index.html
 _type: Blurb
@@ -16,7 +16,7 @@ _type: Blurb
 # Biografía
 
 Resumen de cómo se inicia esta historia fotográfica.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf258c86-025c-4857-890d-7e44886bfc1e.jpg)
+![Salar de Surire - 2014](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf258c86-025c-4857-890d-7e44886bfc1e.jpg)
 
 Descubrí la fotografía como medio de expresión recién el año 2008, a partir de la fotografía submarina.
 
