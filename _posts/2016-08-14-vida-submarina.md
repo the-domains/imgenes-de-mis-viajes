@@ -1,18 +1,17 @@
 ---
 description: ''
-dateModified: '2016-08-14T15:15:15.142Z'
-datePublished: '2016-08-14T15:16:38.029Z'
+dateModified: '2016-08-14T15:18:45.677Z'
+datePublished: '2016-08-14T15:18:46.314Z'
 title: Vida submarina
 author:
   - name: armando hamel
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-14-vida-submarina.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: vida-submarina/index.html
+_type: Blurb
 
 ---
 # Vida submarina
