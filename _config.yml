@@ -24,6 +24,9 @@ navigation:
   - name: El alma del puerto
     id: 40c2cca2-d20b-4982-a111-a4381cbc2702
     type: content
+  - name: Texturas
+    id: a142223f-b474-4b0d-82de-2629600afa5f
+    type: content
 title: Imágenes de mi viaje
 description: >-
   Mi viaje por esta encarnación tiene cosas que vale la pena registrar, y quiero
