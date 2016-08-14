@@ -1,15 +1,13 @@
 ---
-datePublished: '2016-08-14T05:14:55.305Z'
+datePublished: '2016-08-14T05:15:30.754Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T05:14:54.810Z'
+dateModified: '2016-08-14T05:15:29.987Z'
 title: Biografía
 publisher: {}
-description: >-
-  Descubrí la fotografía como medio de expresión recién el año 2008, a partir de
-  la fotografía submarina.
+description: Salar de Surire - 2014
 starred: false
 url: biografia/index.html
 _type: Blurb
