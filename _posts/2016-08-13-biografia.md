@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-08-14T05:15:30.754Z'
+datePublished: '2016-08-14T05:28:02.753Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T05:15:29.987Z'
+dateModified: '2016-08-14T05:17:22.606Z'
 title: Biografía
 publisher: {}
-description: Salar de Surire - 2014
+description: ''
 starred: false
 url: biografia/index.html
 _type: Blurb
 
 ---
 # Biografía
-![Salar de Surire - 2014](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf258c86-025c-4857-890d-7e44886bfc1e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf258c86-025c-4857-890d-7e44886bfc1e.jpg)
 
 Descubrí la fotografía como medio de expresión recién el año 2008, a partir de la fotografía submarina.
 
