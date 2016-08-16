@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T05:28:02.753Z'
+datePublished: '2016-08-16T19:37:52.341Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T05:17:22.606Z'
+dateModified: '2016-08-16T19:37:51.623Z'
 title: Biografía
 publisher: {}
 description: ''
