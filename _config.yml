@@ -1,16 +1,16 @@
-typography_spectrum: 0.5344179298263043
+typography_spectrum: 0.8335591242648661
 color:
-  brandStrength: 0.20531053561717272
-  lightness: 0.6899391878396273
-  saturation: 0.42491706763394177
-  rhythmicContrast: 0.34413320547901094
+  brandStrength: 0.054990642704069614
+  lightness: 0.47215780010446906
+  saturation: 0.9284956457559019
+  rhythmicContrast: 0.6613505233544856
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.1270321060437709
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+layout_spectrum: 0.0725388505961746
 analytics:
   google: UA-82056407-1
 author:
@@ -29,6 +29,9 @@ navigation:
     type: content
   - name: Vida submarina
     id: 706aef9f-a658-4cc7-b275-7bd36b1c47e9
+    type: content
+  - name: Aves en Chile
+    id: 03549452-aa86-47e9-a9de-a78683dc3e05
     type: content
 title: Imágenes de mi viaje
 description: >-
