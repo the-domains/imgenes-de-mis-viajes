@@ -1,18 +1,17 @@
 ---
 description: ''
-dateModified: '2016-08-16T19:19:00.535Z'
-datePublished: '2016-08-16T19:26:19.786Z'
+dateModified: '2016-08-16T19:44:17.230Z'
+datePublished: '2016-08-16T19:44:18.402Z'
 title: Testosterona
 author:
   - name: armando hamel
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-16-testosterona.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: testosterona/index.html
+_type: Blurb
 
 ---
 # Testosterona
