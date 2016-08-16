@@ -1,17 +1,16 @@
 ---
 description: ''
-dateModified: '2016-08-16T05:18:03.642Z'
-datePublished: '2016-08-16T10:36:46.411Z'
+dateModified: '2016-08-16T11:00:05.839Z'
+datePublished: '2016-08-16T11:01:07.417Z'
 title: Aves en Chile
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-16-aves-en-chile.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: aves-en-chile/index.html
+_type: Blurb
 
 ---
 # Aves en Chile
