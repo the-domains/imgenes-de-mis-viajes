@@ -1,18 +1,17 @@
 ---
 description: 'Joven mochilera en Chiloé, expresa su opinion de manera algo ambigua'
-dateModified: '2016-08-17T04:15:36.304Z'
-datePublished: '2016-08-17T04:15:50.345Z'
+dateModified: '2016-08-17T05:00:28.122Z'
+datePublished: '2016-08-17T05:00:31.169Z'
 title: Estrógenos
 author:
   - name: armando hamel
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-17-estrogenos.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: estrogenos/index.html
+_type: Blurb
 
 ---
 # Estrógenos
