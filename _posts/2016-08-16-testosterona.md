@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-17T05:22:30.332Z'
+datePublished: '2016-08-17T13:15:50.263Z'
 sourcePath: _posts/2016-08-16-testosterona.md
 hasPage: true
 author:
   - name: armando hamel
 via: {}
-dateModified: '2016-08-17T05:22:27.315Z'
+dateModified: '2016-08-17T13:15:44.065Z'
 title: Testosterona
 publisher: {}
 description: >-
@@ -17,9 +17,10 @@ _type: Blurb
 
 ---
 # Testosterona
+![Esclavo de su arte, le gustaria ser despedido para demandar al patrón por abuso. Pero es artista.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95845333-2fc8-4ba4-b2be-ea8aebe61999.jpg)
 
 ## Vocación de artista
-![Esclavo de su arte, le gustaria ser despedido para demandar al patrón por abuso. Pero es artista.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95845333-2fc8-4ba4-b2be-ea8aebe61999.jpg)
+![Esclavo de su arte, le gustaría ser despedido para demandar al patrón por abuso. Pero es artista.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95845333-2fc8-4ba4-b2be-ea8aebe61999.jpg)
 
 ## Solo - Necesidad
 ![Cuando la mirada es genuina, las palabras dan lo mismo.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b649ba6-d9eb-46fd-8ff1-fd4072713908.jpg)
