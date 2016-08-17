@@ -18,9 +18,6 @@ author:
   email: armando@hamel.cl
 name: Imágenes de mis viajes
 navigation:
-  - name: Biografía
-    id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
-    type: content
   - name: El alma del puerto
     id: 40c2cca2-d20b-4982-a111-a4381cbc2702
     type: content
@@ -29,6 +26,9 @@ navigation:
     type: content
   - name: En soledad
     id: 36e1eb22-837e-461d-8e1c-54151898d9fa
+    type: content
+  - name: Biografía
+    id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
     type: content
   - name: Vida submarina
     id: 706aef9f-a658-4cc7-b275-7bd36b1c47e9
