@@ -1,25 +1,43 @@
 ---
-datePublished: '2016-08-17T04:58:52.224Z'
-sourcePath: _posts/2016-08-17-en-soledad.md
-hasPage: true
+datePublished: '2016-08-17T13:02:54.563Z'
 author:
   - name: armando hamel
 via: {}
-dateModified: '2016-08-17T04:58:47.801Z'
+metadata:
+  id: 36e1eb22-837e-461d-8e1c-54151898d9fa
+  metadata:
+    datePublished: '2016-08-17T04:58:52.224Z'
+    sourcePath: _posts/2016-08-17-en-soledad.md
+    hasPage: true
+    author:
+      - name: armando hamel
+    via: {}
+    dateModified: '2016-08-17T04:58:52.224Z'
+    title: En soledad
+    publisher: {}
+    description: >-
+      Él ya no está. Ella también partió. Esos veranos están lejos. Los niños
+      tienen hijos propios que preguntan como era an
+  dateModified: '2016-08-17T05:01:26.576Z'
+dateModified: '2016-08-17T13:02:53.534Z'
 title: En soledad
+id: 36e1eb22-837e-461d-8e1c-54151898d9fa
 publisher: {}
 description: >-
   Él ya no está. Ella también partió. Esos veranos están lejos. Los niños tienen
-  hijos propios que preguntan como era an
+  hijos propios y el ciclo de presencia y ausencia se perpetua. 
 starred: false
-url: en-soledad/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-17-en-soledad.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # En soledad
 
 ## Pasado presente
-![Él ya no está. Ella también partió. Esos veranos están lejos. Los niños tienen hijos propios que preguntan como era an](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8754fe4-ff51-4681-8ebf-fe3659dcca92.jpg)
+![Él ya no está. Ella también partió. Esos veranos están lejos. Los niños tienen hijos propios y el ciclo de presencia y ausencia se perpetua. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8754fe4-ff51-4681-8ebf-fe3659dcca92.jpg)
 
 ## Intruso
 ![Como un supositorio ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67dc0d0a-4f20-40fc-a781-cac0b630bfcb.jpg)
