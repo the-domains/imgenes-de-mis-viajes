@@ -1,17 +1,16 @@
 ---
 description: ''
-dateModified: '2016-08-17T02:21:08.272Z'
-datePublished: '2016-08-17T02:21:27.360Z'
+dateModified: '2016-08-17T04:06:30.784Z'
+datePublished: '2016-08-17T04:06:32.188Z'
 title: En soledad
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-17-en-soledad.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: en-soledad/index.html
+_type: Blurb
 
 ---
 # En soledad
