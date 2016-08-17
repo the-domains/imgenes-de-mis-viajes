@@ -39,6 +39,9 @@ navigation:
   - name: Biografía
     id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
     type: content
+  - name: Bienvenidos
+    id: f6edb6fd-d176-4f6a-854a-b5e85c974a31
+    type: content
 title: Imágenes de mi viaje
 description: >-
   Mi viaje por esta encarnación tiene sorpresas en cada rincón. Este es mi
