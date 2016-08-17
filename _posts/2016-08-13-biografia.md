@@ -1,16 +1,29 @@
 ---
-datePublished: '2016-08-16T19:37:52.341Z'
-sourcePath: _posts/2016-08-13-biografia.md
-hasPage: true
-author: []
+datePublished: '2016-08-17T05:27:53.419Z'
+author:
+  - name: madlaina fontana
 via: {}
-dateModified: '2016-08-16T19:37:51.623Z'
+metadata:
+  datePublished: '2016-08-16T19:37:52.341Z'
+  sourcePath: _posts/2016-08-13-biografia.md
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-08-16T19:37:52.341Z'
+  title: Biografía
+  publisher: {}
+  description: ''
+dateModified: '2016-08-17T05:27:50.884Z'
 title: Biografía
+id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
 publisher: {}
 description: ''
 starred: false
-url: biografia/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-13-biografia.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Biografía
