@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T19:55:34.415Z'
+datePublished: '2016-08-18T03:48:16.047Z'
 sourcePath: _posts/2016-08-13-biografia.md
 author:
   - name: fotografia de madlaina fontana
@@ -14,16 +14,15 @@ metadata:
   title: Biografía
   publisher: {}
   description: ''
-dateModified: '2016-08-17T19:55:07.656Z'
+dateModified: '2016-08-18T03:48:15.301Z'
 title: Biografía
 id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
 publisher: {}
 description: ''
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: biografia/index.html
+_type: Blurb
 
 ---
 # Biografía
