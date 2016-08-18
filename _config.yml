@@ -18,9 +18,6 @@ author:
   email: armando@hamel.cl
 name: Imágenes de mis viajes
 navigation:
-  - name: Testosterona
-    id: 2c9968d6-1ab2-43b4-8807-a528114e0902
-    type: content
   - name: Texturas
     id: a142223f-b474-4b0d-82de-2629600afa5f
     type: content
