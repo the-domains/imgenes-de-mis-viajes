@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T19:54:02.243Z'
+datePublished: '2016-08-18T03:46:18.000Z'
 sourcePath: _posts/2016-08-13-retratos-callejeros.md
 author: []
 via: {}
@@ -16,16 +16,15 @@ metadata:
     publisher: {}
     description: ''
   dateModified: '2016-08-17T05:01:44.892Z'
-dateModified: '2016-08-17T19:53:51.475Z'
+dateModified: '2016-08-18T03:46:17.456Z'
 title: El alma del puerto
 id: 40c2cca2-d20b-4982-a111-a4381cbc2702
 publisher: {}
 description: ''
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: el-alma-del-puerto/index.html
+_type: Blurb
 
 ---
 # El alma del puerto
