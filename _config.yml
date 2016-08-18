@@ -17,6 +17,10 @@ author:
   name: Armando Hamel
   email: armando@hamel.cl
 name: Imágenes de mis viajes
+navigation:
+  - name: Inicio
+    id: f6edb6fd-d176-4f6a-854a-b5e85c974a31
+    type: content
 title: Imágenes de mi viaje
 description: >-
   Mi viaje por esta encarnación tiene sorpresas en cada rincón. Este es mi
