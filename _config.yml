@@ -18,9 +18,6 @@ author:
   email: armando@hamel.cl
 name: Imágenes de mis viajes
 navigation:
-  - name: Texturas
-    id: a142223f-b474-4b0d-82de-2629600afa5f
-    type: content
   - name: En soledad
     id: 36e1eb22-837e-461d-8e1c-54151898d9fa
     type: content
