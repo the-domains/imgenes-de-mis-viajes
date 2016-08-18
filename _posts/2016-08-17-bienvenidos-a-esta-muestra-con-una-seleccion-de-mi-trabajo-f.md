@@ -1,7 +1,8 @@
 ---
-datePublished: '2016-08-18T03:46:13.543Z'
+datePublished: '2016-08-18T05:55:32.891Z'
 sourcePath: >-
   _posts/2016-08-17-bienvenidos-a-esta-muestra-con-una-seleccion-de-mi-trabajo-f.md
+hasPage: true
 author: []
 via: {}
 metadata:
@@ -20,15 +21,13 @@ metadata:
     Me gustaría conocer tu opinión de lo que veas aquí. Qué emociones te
     producen los diferentes temas y las diferentes imágenes. Si quieres tener
     una copia de ellas, contáctame y te enviaré una versión en tamaño original.
-dateModified: '2016-08-18T03:46:06.967Z'
+dateModified: '2016-08-18T05:55:32.352Z'
 title: Inicio
 id: f6edb6fd-d176-4f6a-854a-b5e85c974a31
 publisher: {}
 description: >-
-  Me gustaría conocer tu opinión de lo que veas aquí. Qué emociones te producen
-  los diferentes temas y las diferentes imágenes. Si quieres tener una copia de
-  ellas, contáctame y te enviaré una versión en tamaño original.
-hasPage: true
+  Bienvenidos a esta muestra con una selección de mi trabajo fotográfico de los
+  últimos años. 
 starred: false
 url: inicio/index.html
 _type: Blurb
@@ -37,6 +36,4 @@ _type: Blurb
 # Inicio
 ![Bienvenidos a esta muestra con una selección de mi trabajo fotográfico de los últimos años. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e2e5c32-de53-4a8c-a50d-63bce5dc8fae.jpg)
 
-### Bienvenidos a esta muestra con una selección de mi trabajo fotográfico de los últimos años.
-
-Me gustaría conocer tu opinión de lo que veas aquí. Qué emociones te producen los diferentes temas y las diferentes imágenes. Si quieres tener una copia de ellas, contáctame y te enviaré una versión en tamaño original.
+### _Mi viaje por esta encarnación tiene sorpresas en cada rincón. Este es un espacio para compartir la belleza que descubro con la mirada._
