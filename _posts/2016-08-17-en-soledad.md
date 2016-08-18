@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T19:40:42.343Z'
+datePublished: '2016-08-18T03:47:05.409Z'
 sourcePath: _posts/2016-08-17-en-soledad.md
 author:
   - name: armando hamel
@@ -20,18 +20,17 @@ metadata:
       Él ya no está. Ella también partió. Esos veranos están lejos. Los niños
       tienen hijos propios que preguntan como era an
   dateModified: '2016-08-17T05:01:26.576Z'
-dateModified: '2016-08-17T19:40:39.051Z'
+dateModified: '2016-08-18T03:47:04.227Z'
 title: En soledad
 id: 36e1eb22-837e-461d-8e1c-54151898d9fa
 publisher: {}
 description: >-
   Él ya no está. Ella también partió. Esos veranos están lejos. Los niños tienen
   hijos propios y el ciclo de presencia y ausencia se perpetua. 
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: en-soledad/index.html
+_type: Blurb
 
 ---
 # En soledad
