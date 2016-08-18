@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-17T19:41:54.564Z'
+datePublished: '2016-08-18T03:46:46.895Z'
 sourcePath: _posts/2016-08-16-testosterona.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T19:28:04.680Z'
+dateModified: '2016-08-18T03:46:45.074Z'
 title: Testosterona
 publisher: {}
 description: >-
