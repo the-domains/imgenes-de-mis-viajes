@@ -42,6 +42,9 @@ navigation:
   - name: Aves en Chile
     id: 03549452-aa86-47e9-a9de-a78683dc3e05
     type: content
+  - name: Biografía
+    id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
+    type: content
 title: Imágenes de mi viaje
 description: >-
   Mi viaje por esta encarnación tiene sorpresas en cada rincón. Este es mi
