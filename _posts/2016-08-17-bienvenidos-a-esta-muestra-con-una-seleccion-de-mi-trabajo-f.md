@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T00:28:42.562Z'
+datePublished: '2016-08-18T03:46:13.543Z'
 sourcePath: >-
   _posts/2016-08-17-bienvenidos-a-esta-muestra-con-una-seleccion-de-mi-trabajo-f.md
 author: []
@@ -20,7 +20,7 @@ metadata:
     Me gustaría conocer tu opinión de lo que veas aquí. Qué emociones te
     producen los diferentes temas y las diferentes imágenes. Si quieres tener
     una copia de ellas, contáctame y te enviaré una versión en tamaño original.
-dateModified: '2016-08-18T00:28:41.319Z'
+dateModified: '2016-08-18T03:46:06.967Z'
 title: Inicio
 id: f6edb6fd-d176-4f6a-854a-b5e85c974a31
 publisher: {}
