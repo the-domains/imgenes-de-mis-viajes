@@ -1,17 +1,16 @@
 ---
 description: ''
-dateModified: '2016-08-19T13:18:04.083Z'
-datePublished: '2016-08-19T13:18:41.009Z'
+dateModified: '2016-08-19T13:19:11.922Z'
+datePublished: '2016-08-19T13:19:12.753Z'
 title: Misceláneos
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-miscelaneos.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: miscelaneos/index.html
+_type: Blurb
 
 ---
 # Misceláneos
