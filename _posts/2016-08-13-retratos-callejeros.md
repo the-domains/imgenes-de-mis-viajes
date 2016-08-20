@@ -1,28 +1,14 @@
 ---
-datePublished: '2016-08-18T03:46:18.000Z'
-sourcePath: _posts/2016-08-13-retratos-callejeros.md
-author: []
-via: {}
-metadata:
-  id: 40c2cca2-d20b-4982-a111-a4381cbc2702
-  metadata:
-    datePublished: '2016-08-14T05:28:22.708Z'
-    sourcePath: _posts/2016-08-13-retratos-callejeros.md
-    hasPage: true
-    author: []
-    via: {}
-    dateModified: '2016-08-14T05:28:22.708Z'
-    title: El alma del puerto
-    publisher: {}
-    description: ''
-  dateModified: '2016-08-17T05:01:44.892Z'
-dateModified: '2016-08-18T03:46:17.456Z'
 title: El alma del puerto
-id: 40c2cca2-d20b-4982-a111-a4381cbc2702
+datePublished: '2016-08-20T14:20:17.900Z'
+dateModified: '2016-08-20T14:20:10.559Z'
 publisher: {}
-description: ''
+author: []
 hasPage: true
+description: ''
+via: {}
 starred: false
+sourcePath: _posts/2016-08-13-retratos-callejeros.md
 url: el-alma-del-puerto/index.html
 _type: Blurb
 
@@ -49,4 +35,4 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9c1592a-619e-49d4-82ff-b608beab335f.jpg)
 
 ## Un hombre feliz
-![La playa es la alameda por donde pasa el hombre libre; y logra ser feliz](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90a5228-7ab4-40a5-bab7-df5114cca3d2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a90a5228-7ab4-40a5-bab7-df5114cca3d2.jpg)
