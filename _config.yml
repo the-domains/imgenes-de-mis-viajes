@@ -45,14 +45,14 @@ navigation:
   - name: Animales
     id: 136f455b-48bd-47ef-82c4-e4797bf7c6b1
     type: content
+  - name: Paisajes
+    id: 45aa30a8-e1b5-4e74-aed3-c2544271a994
+    type: content
   - name: Misceláneos
     id: 4abde949-0f94-41e0-bbe6-3917923884de
     type: content
   - name: Biografía
     id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
-    type: content
-  - name: Paisajes
-    id: 45aa30a8-e1b5-4e74-aed3-c2544271a994
     type: content
 title: Imágenes de mi viaje
 description: >-
