@@ -51,6 +51,9 @@ navigation:
   - name: Biografía
     id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
     type: content
+  - name: Paisajes
+    id: 45aa30a8-e1b5-4e74-aed3-c2544271a994
+    type: content
 title: Imágenes de mi viaje
 description: >-
   Mi viaje por esta encarnación tiene sorpresas en cada rincón. Este es mi
