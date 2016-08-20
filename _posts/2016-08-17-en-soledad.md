@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T15:37:52.941Z'
+datePublished: '2016-08-19T22:32:37.529Z'
 sourcePath: _posts/2016-08-17-en-soledad.md
 hasPage: true
 author: []
@@ -20,7 +20,7 @@ metadata:
       Él ya no está. Ella también partió. Esos veranos están lejos. Los niños
       tienen hijos propios que preguntan como era an
   dateModified: '2016-08-17T05:01:26.576Z'
-dateModified: '2016-08-18T15:37:39.924Z'
+dateModified: '2016-08-19T22:32:36.479Z'
 title: En soledad
 id: 36e1eb22-837e-461d-8e1c-54151898d9fa
 publisher: {}
@@ -49,10 +49,10 @@ _type: Blurb
 ![Donde antes hubo vida, hoy el mar devuelve los restos que después serán arena. Y en polvo te convertirás.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa85d963-ea78-4c08-906e-b69feb9c5bbe.jpg)
 
 ## misión cumplida
-![Larga jornada de trabajo, es el momento de terminar, entregando los últimos rayos de luz](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67bc04c8-f198-44cc-96d7-d550c6ed3746.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67bc04c8-f198-44cc-96d7-d550c6ed3746.jpg)
 
 ## camino de la vida
-![Camino del Inca cercano a Putre, unico pedazo pavimentado de éste, me da la sensación que es como un pedazo de la vida misma.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19b64941-8d47-4fab-b202-1af0f385e0df.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19b64941-8d47-4fab-b202-1af0f385e0df.jpg)
 
 ## golpe sideral
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b9afe31-a8e1-457f-aebe-a07bbdac7de9.jpg)
