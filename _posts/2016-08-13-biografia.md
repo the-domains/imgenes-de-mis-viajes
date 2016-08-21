@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-21T15:36:12.781Z'
+datePublished: '2016-08-21T15:47:06.621Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
 author:
-  - name: fotografia de madlaina fontana
+  - name: 'foto: madlaina fontana'
+    url: 'https://www.facebook.com/madlaina.fontana'
 via: {}
 metadata:
   datePublished: '2016-08-16T19:37:52.341Z'
@@ -15,7 +16,7 @@ metadata:
   title: Biografía
   publisher: {}
   description: ''
-dateModified: '2016-08-21T15:36:12.153Z'
+dateModified: '2016-08-21T15:47:06.094Z'
 title: Raíces fotográficas
 id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
 publisher: {}
@@ -36,9 +37,9 @@ Bajo esta premisa, me inscribí en el curso de fotografía que dictan la Univers
 
 El manejo de la luz, y la fotografía mas urbana la aprendí de [Joe McNally][2]. Él trabaja fundamentalmente en Nueva York para medios publicitarios y con modelos humanos profesionales. El también me enseñó todo el aspecto periférico a la captura de la imagen, básicamente hardware y logística fotográfica.
 
-Pero si tuviera que resumir todo lo que aprendi en esos cuatro años de estudio, se resume en: uno aprende a mirar, observando. Hay que hacer tantas fotos como se pueda, incluso con el celular; y lo tercero es, nunca dejar de maravillarse y seguir aprendiendo. 
+Pero si tuviera que resumir todo lo que aprendi en esos cuatro años de estudio, se resume en: uno aprende a mirar, observando. Hay que hacer tantas fotos como se pueda, incluso con el celular; y lo tercero es, nunca dejar de maravillarse y seguir aprendiendo.
 
-Desde el año 2010 en adelante, he mantenido algunos proyectos que me han llevado a recorrer nuestro país en la búsqueda de las imágenes que le dan vida. Ha sido entretenido y lo he disfrutado. 
+Desde el año 2010 en adelante, he mantenido algunos proyectos que me han llevado a recorrer nuestro país en la búsqueda de las imágenes que le dan vida. Ha sido entretenido y lo he disfrutado.
 
 Aquí dejo registrada parte de esa historia para compartir algo del camino recorrido.
 
