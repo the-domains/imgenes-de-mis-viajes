@@ -18,7 +18,7 @@ author:
   email: armando@hamel.cl
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f98a315-3124-4eee-a026-c5ad03179264.jpg
-name: Fotografias en general
+name: Imágenes de mi viaje
 navigation:
   - name: Inicio
     id: f6edb6fd-d176-4f6a-854a-b5e85c974a31
@@ -58,5 +58,5 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
-title: Imágenes de mi viaje
+title: Registro fotogáfico
 description: Registro fotográfico
