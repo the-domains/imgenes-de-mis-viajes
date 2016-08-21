@@ -16,6 +16,8 @@ analytics:
 author:
   name: Armando Hamel
   email: armando@hamel.cl
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f98a315-3124-4eee-a026-c5ad03179264.jpg
 name: Fotografias en general
 navigation:
   - name: Inicio
@@ -54,5 +56,7 @@ navigation:
   - name: Biografía
     id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
 title: Imágenes de mi viaje
 description: Registro fotográfico
