@@ -1,32 +1,15 @@
 ---
-datePublished: '2016-08-18T06:01:44.161Z'
-sourcePath: >-
-  _posts/2016-08-17-bienvenidos-a-esta-muestra-con-una-seleccion-de-mi-trabajo-f.md
+datePublished: '2016-08-21T13:37:08.454Z'
 hasPage: true
 author: []
 via: {}
-metadata:
-  datePublished: '2016-08-17T04:59:38.174Z'
-  sourcePath: >-
-    _posts/2016-08-17-bienvenidos-a-esta-muestra-con-una-seleccion-de-mi-trabajo-f.md
-  hasPage: true
-  author: []
-  via: {}
-  dateModified: '2016-08-17T04:59:38.174Z'
-  title: >-
-    Bienvenidos a esta muestra con una selección de mi trabajo fotográfico de
-    los últimos años. 
-  publisher: {}
-  description: >-
-    Me gustaría conocer tu opinión de lo que veas aquí. Qué emociones te
-    producen los diferentes temas y las diferentes imágenes. Si quieres tener
-    una copia de ellas, contáctame y te enviaré una versión en tamaño original.
-dateModified: '2016-08-18T06:00:59.311Z'
+dateModified: '2016-08-21T13:37:04.410Z'
 title: Inicio
-id: f6edb6fd-d176-4f6a-854a-b5e85c974a31
 publisher: {}
 description: ''
-starred: false
+starred: true
+sourcePath: >-
+  _posts/2016-08-17-bienvenidos-a-esta-muestra-con-una-seleccion-de-mi-trabajo-f.md
 url: inicio/index.html
 _type: Blurb
 
