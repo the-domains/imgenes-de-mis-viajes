@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T15:47:06.621Z'
+datePublished: '2016-08-22T05:08:45.986Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
 author:
@@ -16,18 +16,18 @@ metadata:
   title: Biografía
   publisher: {}
   description: ''
-dateModified: '2016-08-21T15:47:06.094Z'
+dateModified: '2016-08-22T05:08:44.800Z'
 title: Raíces fotográficas
 id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
 publisher: {}
-description: ''
+description: Salar de Surire en una tenida tradicional de Mauritania
 starred: false
 url: biografia/index.html
 _type: Blurb
 
 ---
 # Raíces fotográficas
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf258c86-025c-4857-890d-7e44886bfc1e.jpg)
+![Salar de Surire en una tenida tradicional de Mauritania](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf258c86-025c-4857-890d-7e44886bfc1e.jpg)
 
 Descubrí este medio de expresión recién el año 2008, a partir de la fotografía submarina. Hasta ese momento, era un simple espectador relativamente insensible a los pequeños detalles que giran alrededor de cada uno de nosotros.
 
