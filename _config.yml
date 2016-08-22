@@ -1,4 +1,3 @@
-layout_spectrum: 0.9075992438010871
 typography_spectrum: 0.018287975573912263
 color:
   brandStrength: 0.9360038980375975
@@ -11,6 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.9075992438010871
 analytics:
   google: UA-82056407-1
 author:
@@ -58,5 +58,5 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
-title: Imágenes de este viaje
+title: Proyectos fotográficos personales
 description: Registro fotográfico
