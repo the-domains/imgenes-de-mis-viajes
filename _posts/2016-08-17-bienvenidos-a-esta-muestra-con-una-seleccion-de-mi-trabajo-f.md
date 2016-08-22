@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-22T04:08:26.959Z'
+datePublished: '2016-08-22T04:18:52.286Z'
 sourcePath: >-
   _posts/2016-08-17-bienvenidos-a-esta-muestra-con-una-seleccion-de-mi-trabajo-f.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T04:08:26.209Z'
+dateModified: '2016-08-22T04:18:51.577Z'
 title: >-
   Mi viaje por esta encarnación tiene sorpresas en cada rincón. Este es un
   espacio para compartir la belleza que descubro con la mirada.
