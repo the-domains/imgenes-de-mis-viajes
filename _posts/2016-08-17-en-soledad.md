@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T22:32:37.529Z'
+datePublished: '2016-08-22T15:08:28.870Z'
 sourcePath: _posts/2016-08-17-en-soledad.md
 hasPage: true
 author: []
@@ -20,7 +20,7 @@ metadata:
       Él ya no está. Ella también partió. Esos veranos están lejos. Los niños
       tienen hijos propios que preguntan como era an
   dateModified: '2016-08-17T05:01:26.576Z'
-dateModified: '2016-08-19T22:32:36.479Z'
+dateModified: '2016-08-22T15:08:27.888Z'
 title: En soledad
 id: 36e1eb22-837e-461d-8e1c-54151898d9fa
 publisher: {}
@@ -46,7 +46,9 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2b24b45-67c5-421c-9985-d050d0ee77f9.jpg)
 
 ## lo que botó la ola
-![Donde antes hubo vida, hoy el mar devuelve los restos que después serán arena. Y en polvo te convertirás.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa85d963-ea78-4c08-906e-b69feb9c5bbe.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa85d963-ea78-4c08-906e-b69feb9c5bbe.jpg)
+
+Donde antes hubo vida, hoy el mar devuelve los restos que después serán arena. Y en polvo te convertirás....
 
 ## misión cumplida
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67bc04c8-f198-44cc-96d7-d550c6ed3746.jpg)
