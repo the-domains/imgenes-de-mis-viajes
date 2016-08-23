@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-19T02:22:32.499Z'
-sourcePath: _posts/2016-08-14-vida-submarina.md
+datePublished: '2016-08-23T17:55:04.572Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-18T22:38:25.459Z'
-title: Vida submarina
+dateModified: '2016-08-23T17:55:03.578Z'
+title: vida submarina
 publisher: {}
 description: ''
 starred: false
+sourcePath: _posts/2016-08-14-vida-submarina.md
 url: vida-submarina/index.html
 _type: Blurb
 
 ---
-# Vida submarina
+# vida submarina
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4404e5dc-26b6-4461-b043-4df56cde18b2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ed6bee2-2347-4d9d-8ecf-9b8b86496e5b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b602e5b-1c84-4978-b63b-5b90d84d578f.jpg)
