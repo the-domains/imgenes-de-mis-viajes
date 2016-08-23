@@ -1,4 +1,3 @@
-layout_spectrum: 0.930710795102641
 typography_spectrum: 0.8841369005385786
 color:
   brandStrength: 0.0640930961817503
@@ -11,6 +10,7 @@ color:
     - '#B3897F'
     - '#856C62'
     - '#654C48'
+layout_spectrum: 0.930710795102641
 analytics:
   google: UA-82056407-1
 author:
@@ -55,6 +55,9 @@ navigation:
     type: content
   - name: Biografía
     id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
+    type: content
+  - name: animitas
+    id: a2507a2f-cb82-43f0-9ea9-5005d66bb739
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
