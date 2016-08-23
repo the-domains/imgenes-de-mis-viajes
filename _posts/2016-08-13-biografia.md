@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-23T22:55:57.880Z'
+datePublished: '2016-08-23T23:05:53.508Z'
 sourcePath: _posts/2016-08-13-biografia.md
 hasPage: true
 author:
   - name: 'foto: madlaina fontana'
     url: 'https://www.facebook.com/madlaina.fontana'
 via: {}
-dateModified: '2016-08-23T22:55:18.494Z'
+dateModified: '2016-08-23T23:05:52.191Z'
 title: origen fotográfico
 publisher: {}
 description: ''
