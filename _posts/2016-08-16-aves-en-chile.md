@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-19T21:24:18.126Z'
-sourcePath: _posts/2016-08-16-aves-en-chile.md
+datePublished: '2016-08-23T17:54:36.089Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T21:24:08.872Z'
-title: Aves en Chile
+dateModified: '2016-08-23T17:54:34.516Z'
+title: aves en chile
 publisher: {}
 description: ''
 starred: false
+sourcePath: _posts/2016-08-16-aves-en-chile.md
 url: aves-en-chile/index.html
 _type: Blurb
 
 ---
-# Aves en Chile
+# aves en chile
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb86a57-9da9-471c-8ce1-0448149769f5.jpg)
 
 ## pájaro carpintero
