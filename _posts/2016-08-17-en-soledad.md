@@ -1,48 +1,31 @@
 ---
-datePublished: '2016-08-22T15:32:16.551Z'
-sourcePath: _posts/2016-08-17-en-soledad.md
+datePublished: '2016-08-23T17:55:28.925Z'
 hasPage: true
 author: []
 via: {}
-metadata:
-  id: 36e1eb22-837e-461d-8e1c-54151898d9fa
-  metadata:
-    datePublished: '2016-08-17T04:58:52.224Z'
-    sourcePath: _posts/2016-08-17-en-soledad.md
-    hasPage: true
-    author:
-      - name: armando hamel
-    via: {}
-    dateModified: '2016-08-17T04:58:52.224Z'
-    title: En soledad
-    publisher: {}
-    description: >-
-      Él ya no está. Ella también partió. Esos veranos están lejos. Los niños
-      tienen hijos propios que preguntan como era an
-  dateModified: '2016-08-17T05:01:26.576Z'
-dateModified: '2016-08-22T15:32:15.439Z'
-title: En soledad
-id: 36e1eb22-837e-461d-8e1c-54151898d9fa
+dateModified: '2016-08-23T17:55:28.202Z'
+title: en soledad
 publisher: {}
 description: ''
 starred: false
+sourcePath: _posts/2016-08-17-en-soledad.md
 url: en-soledad/index.html
 _type: Blurb
 
 ---
-# En soledad
+# en soledad
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8754fe4-ff51-4681-8ebf-fe3659dcca92.jpg)
 
 ## pasado presente
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8754fe4-ff51-4681-8ebf-fe3659dcca92.jpg)
 
-Tu ya has partido, y yo no quiero estar sin ti. 
+Tu ya has partido, y yo no quiero estar sin ti.
 
-Dejemos nuestro amor congelado, como si aun estuviésemos ahí. 
+Dejemos nuestro amor congelado, como si aun estuviésemos ahí.
 
 Quizás nuevas parejas descubran cómo vivir,
 
-lo que tuvimos un día, 
+lo que tuvimos un día,
 
 que fue no morir....
 
