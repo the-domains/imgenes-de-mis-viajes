@@ -20,9 +20,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7aabd4-cb9d-4e76-b35f-5aa69095b172.png
 name: Imágenes de mi viaje
 navigation:
-  - name: animitas
-    id: a2507a2f-cb82-43f0-9ea9-5005d66bb739
-    type: content
   - name: Paisajes
     id: 45aa30a8-e1b5-4e74-aed3-c2544271a994
     type: content
