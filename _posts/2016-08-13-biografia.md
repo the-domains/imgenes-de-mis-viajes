@@ -1,32 +1,21 @@
 ---
-datePublished: '2016-08-22T05:08:45.986Z'
-sourcePath: _posts/2016-08-13-biografia.md
+datePublished: '2016-08-23T17:55:42.872Z'
 hasPage: true
 author:
   - name: 'foto: madlaina fontana'
     url: 'https://www.facebook.com/madlaina.fontana'
 via: {}
-metadata:
-  datePublished: '2016-08-16T19:37:52.341Z'
-  sourcePath: _posts/2016-08-13-biografia.md
-  hasPage: true
-  author: []
-  via: {}
-  dateModified: '2016-08-16T19:37:52.341Z'
-  title: Biografía
-  publisher: {}
-  description: ''
-dateModified: '2016-08-22T05:08:44.800Z'
-title: Raíces fotográficas
-id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
+dateModified: '2016-08-23T17:55:41.963Z'
+title: raíces fotográficas
 publisher: {}
 description: Salar de Surire en una tenida tradicional de Mauritania
 starred: false
+sourcePath: _posts/2016-08-13-biografia.md
 url: biografia/index.html
 _type: Blurb
 
 ---
-# Raíces fotográficas
+# raíces fotográficas
 ![Salar de Surire en una tenida tradicional de Mauritania](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf258c86-025c-4857-890d-7e44886bfc1e.jpg)
 
 Descubrí este medio de expresión recién el año 2008, a partir de la fotografía submarina. Hasta ese momento, era un simple espectador relativamente insensible a los pequeños detalles que giran alrededor de cada uno de nosotros.
