@@ -19,6 +19,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7aabd4-cb9d-4e76-b35f-5aa69095b172.png
 name: Imágenes de mi viaje
+navigation:
+  - name: inicio
+    id: f6edb6fd-d176-4f6a-854a-b5e85c974a31
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
 title: proyectos personales
