@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T20:49:25.846Z'
+datePublished: '2016-08-23T13:22:19.759Z'
 sourcePath: _posts/2016-08-19-miscelaneos.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T20:49:22.850Z'
-title: De todo un poco
+dateModified: '2016-08-23T13:22:19.298Z'
+title: de todo un poco
 publisher: {}
 description: ''
 starred: false
@@ -13,7 +13,7 @@ url: miscelaneos/index.html
 _type: Blurb
 
 ---
-# De todo un poco
+# de todo un poco
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece8278d-f5c2-40b9-9966-eb0a532746e1.jpg)
 
 ## al otro lado
