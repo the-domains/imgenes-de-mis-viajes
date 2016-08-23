@@ -1,24 +1,25 @@
 ---
-description: ''
-dateModified: '2016-08-23T18:15:49.001Z'
-datePublished: '2016-08-23T18:27:49.884Z'
-title: cementerio
+datePublished: '2016-08-23T23:18:32.897Z'
+sourcePath: _posts/2016-08-23-cementerio.md
 author:
   - name: armando hamel
-publisher: {}
 via: {}
+dateModified: '2016-08-23T22:53:53.678Z'
+title: cementerios
+publisher: {}
+description: ''
 starred: false
-sourcePath: _posts/2016-08-23-cementerio.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# cementerio
+# cementerios
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b80edba3-4300-4030-b61b-44cc96a68fdb.jpg)
 
-## despojos y desechos ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b80edba3-4300-4030-b61b-44cc96a68fdb.jpg)
+## despojos y desechos
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b80edba3-4300-4030-b61b-44cc96a68fdb.jpg)
 
 Cementerio en la Isla Chaulinec, Grupo Desertores, Chiloé, donde las tumbas quedan olvidadas en una esquina y de a poco desaparecen entre pasto y basura.
 
