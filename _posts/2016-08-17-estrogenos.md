@@ -1,27 +1,14 @@
 ---
-datePublished: '2016-08-23T13:21:04.275Z'
-sourcePath: _posts/2016-08-17-estrogenos.md
-hasPage: true
-author:
-  - name: armando hamel
-via: {}
-metadata:
-  datePublished: '2016-08-17T05:00:31.169Z'
-  sourcePath: _posts/2016-08-17-estrogenos.md
-  hasPage: true
-  author:
-    - name: armando hamel
-  via: {}
-  dateModified: '2016-08-17T05:00:31.169Z'
-  title: Estrógenos
-  publisher: {}
-  description: 'Joven mochilera en Chiloé, expresa su opinion de manera algo ambigua'
-dateModified: '2016-08-23T13:21:03.100Z'
 title: estrógenos
-id: d9f5fdda-27c2-4681-9c60-06175fd57590
+datePublished: '2016-08-23T22:54:30.524Z'
+dateModified: '2016-08-23T13:32:03.264Z'
 publisher: {}
+author: []
+hasPage: true
 description: ''
+via: {}
 starred: false
+sourcePath: _posts/2016-08-17-estrogenos.md
 url: estrogenos/index.html
 _type: Blurb
 
