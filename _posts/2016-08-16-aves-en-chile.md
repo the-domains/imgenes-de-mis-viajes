@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-23T17:54:36.089Z'
+datePublished: '2016-08-23T23:04:40.722Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T17:54:34.516Z'
+dateModified: '2016-08-23T23:04:39.800Z'
 title: aves en chile
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-16-aves-en-chile.md
+starred: false
 url: aves-en-chile/index.html
 _type: Blurb
 
