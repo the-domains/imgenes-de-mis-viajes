@@ -44,6 +44,9 @@ navigation:
   - name: animales
     id: 136f455b-48bd-47ef-82c4-e4797bf7c6b1
     type: content
+  - name: aves en chile
+    id: 03549452-aa86-47e9-a9de-a78683dc3e05
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
 title: proyectos personales
