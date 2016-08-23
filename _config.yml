@@ -26,6 +26,9 @@ navigation:
   - name: el alma del puerto
     id: 40c2cca2-d20b-4982-a111-a4381cbc2702
     type: content
+  - name: estrógenos
+    id: d9f5fdda-27c2-4681-9c60-06175fd57590
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
 title: proyectos personales
