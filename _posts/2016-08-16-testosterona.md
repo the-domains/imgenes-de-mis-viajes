@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-23T17:54:02.324Z'
+datePublished: '2016-08-23T23:03:33.665Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T17:54:01.718Z'
+dateModified: '2016-08-23T23:03:30.498Z'
 title: testosterona
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-16-testosterona.md
+starred: false
 url: testosterona/index.html
 _type: Blurb
 
