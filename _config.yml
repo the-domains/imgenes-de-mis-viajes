@@ -1,4 +1,3 @@
-layout_spectrum: 0.2971667943056673
 typography_spectrum: 0.006232537794858217
 color:
   brandStrength: 0.0640930961817503
@@ -11,6 +10,7 @@ color:
     - '#B3897F'
     - '#856C62'
     - '#654C48'
+layout_spectrum: 0.2971667943056673
 analytics:
   google: UA-82056407-1
 author:
@@ -58,5 +58,5 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
-title: proyectos fotográficos personales
+title: proyectos personales
 description: ''
