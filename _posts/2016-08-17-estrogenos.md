@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-18T03:46:34.349Z'
+datePublished: '2016-08-23T13:21:04.275Z'
 sourcePath: _posts/2016-08-17-estrogenos.md
+hasPage: true
 author:
   - name: armando hamel
 via: {}
@@ -15,18 +16,17 @@ metadata:
   title: Estrógenos
   publisher: {}
   description: 'Joven mochilera en Chiloé, expresa su opinion de manera algo ambigua'
-dateModified: '2016-08-18T03:46:33.154Z'
-title: Estrógenos
+dateModified: '2016-08-23T13:21:03.100Z'
+title: estrógenos
 id: d9f5fdda-27c2-4681-9c60-06175fd57590
 publisher: {}
 description: ''
-hasPage: true
 starred: false
 url: estrogenos/index.html
 _type: Blurb
 
 ---
-# Estrógenos
+# estrógenos
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cacddbc-1ea9-4a08-934d-b74ac35cb1c6.jpg)
 
 ## Espontáneo
