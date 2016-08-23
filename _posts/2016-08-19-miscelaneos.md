@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-23T13:22:19.759Z'
+datePublished: '2016-08-23T23:05:43.580Z'
 sourcePath: _posts/2016-08-19-miscelaneos.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T13:22:19.298Z'
+dateModified: '2016-08-23T23:05:42.964Z'
 title: de todo un poco
 publisher: {}
 description: ''
