@@ -20,9 +20,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7aabd4-cb9d-4e76-b35f-5aa69095b172.png
 name: Imágenes de mi viaje
 navigation:
-  - name: Puerto
-    id: 40c2cca2-d20b-4982-a111-a4381cbc2702
-    type: content
   - name: Estrógenos
     id: d9f5fdda-27c2-4681-9c60-06175fd57590
     type: content
