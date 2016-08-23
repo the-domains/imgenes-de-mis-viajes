@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-23T17:55:04.572Z'
+datePublished: '2016-08-23T23:04:21.100Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T17:55:03.578Z'
+dateModified: '2016-08-23T23:04:20.397Z'
 title: vida submarina
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-14-vida-submarina.md
+starred: false
 url: vida-submarina/index.html
 _type: Blurb
 
