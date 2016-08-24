@@ -38,14 +38,14 @@ navigation:
   - name: vida submarina
     id: 706aef9f-a658-4cc7-b275-7bd36b1c47e9
     type: content
+  - name: animitas
+    id: a2507a2f-cb82-43f0-9ea9-5005d66bb739
+    type: content
   - name: animales
     id: 136f455b-48bd-47ef-82c4-e4797bf7c6b1
     type: content
   - name: aves
     id: 03549452-aa86-47e9-a9de-a78683dc3e05
-    type: content
-  - name: animitas
-    id: a2507a2f-cb82-43f0-9ea9-5005d66bb739
     type: content
   - name: paisajes
     id: 45aa30a8-e1b5-4e74-aed3-c2544271a994
