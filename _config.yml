@@ -35,11 +35,11 @@ navigation:
   - name: en soledad
     id: 36e1eb22-837e-461d-8e1c-54151898d9fa
     type: content
-  - name: vida submarina
-    id: 706aef9f-a658-4cc7-b275-7bd36b1c47e9
-    type: content
   - name: animitas
     id: a2507a2f-cb82-43f0-9ea9-5005d66bb739
+    type: content
+  - name: vida submarina
+    id: 706aef9f-a658-4cc7-b275-7bd36b1c47e9
     type: content
   - name: animales
     id: 136f455b-48bd-47ef-82c4-e4797bf7c6b1
