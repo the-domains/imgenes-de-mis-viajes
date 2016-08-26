@@ -1,13 +1,13 @@
 ---
-title: estrógenos
-datePublished: '2016-08-23T23:03:22.214Z'
-dateModified: '2016-08-23T23:03:19.032Z'
-publisher: {}
-author: []
-hasPage: true
-description: ''
-via: {}
+datePublished: '2016-08-26T05:52:27.477Z'
 sourcePath: _posts/2016-08-17-estrogenos.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-26T05:51:14.409Z'
+title: estrógenos
+publisher: {}
+description: ''
 starred: false
 url: estrogenos/index.html
 _type: Blurb
