@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T05:52:27.477Z'
+datePublished: '2016-08-27T13:02:04.732Z'
 sourcePath: _posts/2016-08-17-estrogenos.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T05:51:14.409Z'
+dateModified: '2016-08-27T13:01:55.871Z'
 title: estrógenos
 publisher: {}
 description: ''
