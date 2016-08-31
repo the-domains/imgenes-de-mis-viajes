@@ -1,19 +1,18 @@
 ---
-datePublished: '2016-08-29T09:46:32.682Z'
+datePublished: '2016-08-29T09:48:38.935Z'
 sourcePath: >-
   _posts/2016-08-17-bienvenidos-a-esta-muestra-con-una-seleccion-de-mi-trabajo-f.md
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-28T19:43:54.630Z'
+dateModified: '2016-08-29T09:48:37.993Z'
 title: >-
   Mi viaje por esta encarnación tiene sorpresas en cada rincón. Este es un
   espacio para compartir la belleza que descubro con la mirada.
 publisher: {}
 description: ''
 starred: true
-url: mi-viaje-por-esta-encarnacion-tiene-sorpresas-en-cada-rincon/index.html
 _type: Blurb
 
 ---
