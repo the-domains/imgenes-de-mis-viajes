@@ -23,6 +23,12 @@ navigation:
   - name: aves
     id: 03549452-aa86-47e9-a9de-a78683dc3e05
     type: content
+  - name: de todo un poco
+    id: 4abde949-0f94-41e0-bbe6-3917923884de
+    type: content
+  - name: origen fotográfico
+    id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
 title: proyectos personales
