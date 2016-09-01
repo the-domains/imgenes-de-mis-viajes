@@ -29,11 +29,11 @@ navigation:
   - name: testosterona
     id: 2c9968d6-1ab2-43b4-8807-a528114e0902
     type: content
-  - name: de todo un poco
-    id: 4abde949-0f94-41e0-bbe6-3917923884de
-    type: content
   - name: en soledad
     id: 36e1eb22-837e-461d-8e1c-54151898d9fa
+    type: content
+  - name: de todo un poco
+    id: 4abde949-0f94-41e0-bbe6-3917923884de
     type: content
   - name: animales
     id: 136f455b-48bd-47ef-82c4-e4797bf7c6b1
