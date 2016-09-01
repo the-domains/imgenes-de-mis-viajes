@@ -38,6 +38,9 @@ navigation:
   - name: en soledad
     id: 36e1eb22-837e-461d-8e1c-54151898d9fa
     type: content
+  - name: estrógenos
+    id: d9f5fdda-27c2-4681-9c60-06175fd57590
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
 title: proyectos personales
