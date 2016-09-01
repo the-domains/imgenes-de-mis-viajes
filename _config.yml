@@ -38,14 +38,14 @@ navigation:
   - name: aves
     id: 03549452-aa86-47e9-a9de-a78683dc3e05
     type: content
+  - name: texturas
+    id: a142223f-b474-4b0d-82de-2629600afa5f
+    type: content
   - name: origen fotográfico
     id: cbb844d1-5d9d-4b80-acdd-1645f3add19d
     type: content
   - name: en soledad
     id: 36e1eb22-837e-461d-8e1c-54151898d9fa
-    type: content
-  - name: texturas
-    id: a142223f-b474-4b0d-82de-2629600afa5f
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb56785b-f7f6-4e25-a9ee-2332a55932e1.jpg
