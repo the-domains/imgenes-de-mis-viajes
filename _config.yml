@@ -20,6 +20,15 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7aabd4-cb9d-4e76-b35f-5aa69095b172.png
 name: Imágenes de mi viaje
 navigation:
+  - name: el alma del puerto
+    id: 40c2cca2-d20b-4982-a111-a4381cbc2702
+    type: content
+  - name: estrógenos
+    id: d9f5fdda-27c2-4681-9c60-06175fd57590
+    type: content
+  - name: testosterona
+    id: 2c9968d6-1ab2-43b4-8807-a528114e0902
+    type: content
   - name: en soledad
     id: 36e1eb22-837e-461d-8e1c-54151898d9fa
     type: content
