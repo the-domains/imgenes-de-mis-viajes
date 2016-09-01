@@ -23,14 +23,14 @@ navigation:
   - name: el alma del puerto
     id: 40c2cca2-d20b-4982-a111-a4381cbc2702
     type: content
+  - name: estrógenos
+    id: d9f5fdda-27c2-4681-9c60-06175fd57590
+    type: content
   - name: testosterona
     id: 2c9968d6-1ab2-43b4-8807-a528114e0902
     type: content
   - name: de todo un poco
     id: 4abde949-0f94-41e0-bbe6-3917923884de
-    type: content
-  - name: estrógenos
-    id: d9f5fdda-27c2-4681-9c60-06175fd57590
     type: content
   - name: aves
     id: 03549452-aa86-47e9-a9de-a78683dc3e05
