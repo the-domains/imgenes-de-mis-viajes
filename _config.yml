@@ -20,17 +20,8 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7aabd4-cb9d-4e76-b35f-5aa69095b172.png
 name: Imágenes de mi viaje
 navigation:
-  - name: en soledad
-    id: 36e1eb22-837e-461d-8e1c-54151898d9fa
-    type: content
   - name: vida submarina
     id: 706aef9f-a658-4cc7-b275-7bd36b1c47e9
-    type: content
-  - name: animales
-    id: 136f455b-48bd-47ef-82c4-e4797bf7c6b1
-    type: content
-  - name: aves
-    id: 03549452-aa86-47e9-a9de-a78683dc3e05
     type: content
   - name: paisajes
     id: 45aa30a8-e1b5-4e74-aed3-c2544271a994
