@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-28T20:00:25.996Z'
+datePublished: '2016-08-29T22:38:37.608Z'
 sourcePath: _posts/2016-08-17-en-soledad.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T20:00:08.743Z'
+dateModified: '2016-08-29T22:38:31.117Z'
 title: en soledad
 publisher: {}
 description: ''
