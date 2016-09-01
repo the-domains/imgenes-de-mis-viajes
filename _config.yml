@@ -20,6 +20,12 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7aabd4-cb9d-4e76-b35f-5aa69095b172.png
 name: Imágenes de mi viaje
 navigation:
+  - name: testosterona
+    id: 2c9968d6-1ab2-43b4-8807-a528114e0902
+    type: content
+  - name: en soledad
+    id: 36e1eb22-837e-461d-8e1c-54151898d9fa
+    type: content
   - name: animitas
     id: a2507a2f-cb82-43f0-9ea9-5005d66bb739
     type: content
