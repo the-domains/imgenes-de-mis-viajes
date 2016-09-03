@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T21:23:17.202Z'
+datePublished: '2016-09-01T03:37:05.785Z'
 sourcePath: _posts/2016-08-16-aves-en-chile.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T21:23:15.942Z'
+dateModified: '2016-09-01T03:37:04.027Z'
 title: aves en chile
 publisher: {}
 description: ''
@@ -50,7 +50,10 @@ _type: Blurb
 
 ### familia de carancas
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59a37013-30c8-4264-b05c-262e1a9732c1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba50233-7703-47ab-a764-5203481fafa6.jpg)
+
+pilpilén ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba50233-7703-47ab-a764-5203481fafa6.jpg)
+
+### pato yeco al contraluz
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64fd80c-079e-4fd5-8a00-9b1a60fe281f.jpg)
 
 ### pato quetro en discusión matrimonial
@@ -66,10 +69,20 @@ _type: Blurb
 
 ### esta es mi casa, y aquí mando yo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf66a5e-3b15-4556-bcd5-98caa9750623.jpg)
+
+### todo hijo aprende imitando al padre
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4394fe3-2202-47da-bf09-42cf17d50a8b.jpg)
+
+### familia de cisnes de cuello negro de paseo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21d9f150-d201-4a2f-b253-c5a09633fc40.jpg)
+
+### garza aerodinámica
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34bf9ba8-785a-4505-a61d-0c91420504da.jpg)
+
+### garza chica en el reloncaví
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d918845e-904d-4c31-bfa7-96e00ca6e483.jpg)
+
+garza cuca en la playa
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bc60cb9-835d-41c9-8783-d864aca0b472.jpg)
 
 ## altiplano
