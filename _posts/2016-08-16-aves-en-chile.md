@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-29T09:46:47.865Z'
+datePublished: '2016-08-31T21:23:17.202Z'
+sourcePath: _posts/2016-08-16-aves-en-chile.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T13:36:01.078Z'
+dateModified: '2016-08-31T21:23:15.942Z'
 title: aves en chile
 publisher: {}
 description: ''
-sourcePath: _posts/2016-08-16-aves-en-chile.md
 starred: false
 url: aves-en-chile/index.html
 _type: Blurb
@@ -20,10 +20,20 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96c43fb6-3d36-4613-aadf-c4859dd9bcc0.jpg)
 
 ## gaviotas
+
+### ¿será juan salvador?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32fa6a79-33da-45bc-97c3-34faf31ed7d2.jpg)
+
+### en pleno carrete
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c7dd9b9-8173-4655-a4d3-078ca5ee93dd.jpg)
+
+### chico y aliñao
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/631ad676-8dbe-4ec0-adb3-7751ab5542f6.jpg)
+
+### no estoy ni ahi
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11de1024-17a9-480f-b72b-2f8503c7405f.jpg)
+
+### voy atrasada a la pega
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46f170a0-033d-42b4-9a21-bb77af163435.jpg)
 
 ## rapaces
@@ -31,18 +41,30 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20828359-4645-4d06-bc44-374ea3cb15bb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85fda343-0211-4d43-aa85-4fb7fb02ed98.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/666931d3-4275-481d-92aa-5c5d6ab56dbc.jpg)
+
+### marcha triunfal
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9fa55d-f1e4-4c9b-994f-9e40fd70d777.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b93e9e-9e89-426e-a4c3-e7d780c8922c.jpg)
 
 ## marinas
+
+### familia de carancas
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59a37013-30c8-4264-b05c-262e1a9732c1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba50233-7703-47ab-a764-5203481fafa6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64fd80c-079e-4fd5-8a00-9b1a60fe281f.jpg)
+
+### pato quetro en discusión matrimonial
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd4be95a-ec25-454b-9aab-dc906c9d149d.jpg)
+
+### pinguino modelo farandulero
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d4979c9-6007-47dc-8a7b-ea66358e344a.jpg)
 
 ## agua dulce
+
+### cisnes tipo cuento de hadas
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32920877-0bd3-473e-88cd-b33be53ae775.jpg)
+
+### esta es mi casa, y aquí mando yo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf66a5e-3b15-4556-bcd5-98caa9750623.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4394fe3-2202-47da-bf09-42cf17d50a8b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21d9f150-d201-4a2f-b253-c5a09633fc40.jpg)
