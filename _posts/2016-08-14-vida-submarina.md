@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T14:01:36.864Z'
+datePublished: '2016-09-01T22:31:14.152Z'
 sourcePath: _posts/2016-08-14-vida-submarina.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:01:36.021Z'
+dateModified: '2016-09-01T22:31:13.122Z'
 title: vida submarina
 publisher: {}
 description: ''
@@ -52,7 +52,7 @@ _type: Blurb
 ## actinia colérica
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece28a83-f008-4fc8-922c-2b947dd6c7e2.jpg)
 
-## pecesito cuico, de ojito azul
+## abc1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22a755dc-2eac-4adb-a523-f8c4ed9bbb2b.jpg)
 
 ## caracolito paseando en un coral
