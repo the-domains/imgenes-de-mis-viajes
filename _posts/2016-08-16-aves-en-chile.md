@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T03:37:05.785Z'
+datePublished: '2016-09-01T23:58:19.671Z'
 sourcePath: _posts/2016-08-16-aves-en-chile.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T03:37:04.027Z'
+dateModified: '2016-09-01T23:58:18.894Z'
 title: aves en chile
 publisher: {}
 description: ''
@@ -37,8 +37,14 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46f170a0-033d-42b4-9a21-bb77af163435.jpg)
 
 ## rapaces
+
+### ¿algún problema?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6559812-463e-4338-a281-64a052330b4f.jpg)
+
+### fluyendo en el viento
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20828359-4645-4d06-bc44-374ea3cb15bb.jpg)
+
+aguilucho
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85fda343-0211-4d43-aa85-4fb7fb02ed98.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/666931d3-4275-481d-92aa-5c5d6ab56dbc.jpg)
 
@@ -51,7 +57,8 @@ _type: Blurb
 ### familia de carancas
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59a37013-30c8-4264-b05c-262e1a9732c1.jpg)
 
-pilpilén ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba50233-7703-47ab-a764-5203481fafa6.jpg)
+pilpilén
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba50233-7703-47ab-a764-5203481fafa6.jpg)
 
 ### pato yeco al contraluz
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64fd80c-079e-4fd5-8a00-9b1a60fe281f.jpg)
