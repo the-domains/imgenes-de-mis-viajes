@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T12:48:52.865Z'
-sourcePath: _posts/2016-08-17-en-soledad.md
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-31T12:48:51.992Z'
 title: en soledad
+datePublished: '2016-09-02T12:30:23.564Z'
+dateModified: '2016-09-02T12:30:09.612Z'
 publisher: {}
+author: []
+hasPage: true
 description: ''
+via: {}
 starred: false
+sourcePath: _posts/2016-08-17-en-soledad.md
 url: en-soledad/index.html
 _type: Blurb
 
